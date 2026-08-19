@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://costvista.example.com/sitemap.xml
